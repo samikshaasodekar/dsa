@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/samikshaasodekar/dsa/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/samikshaasodekar/dsa/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/samikshaasodekar/dsa/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/samikshaasodekar/dsa/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/samikshaasodekar/dsa/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/samikshaasodekar/dsa/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
