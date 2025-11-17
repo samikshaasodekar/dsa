@@ -1,12 +1,18 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        HashSet<Integer> hs = new HashSet<>();
-        for(int n:nums){
-            if(hs.contains(n)){
+        Set<Integer> seen = new HashSet<>();
+        for(int n : nums){
+            if(seen.contains(n)){
                 return true;
             }
-            hs.add(n);
+            seen.add(n);
         }
         return false;
     }
 }
+
+// TC:O(n)
+// SC:O(n)
+
+//return Arrays.stream(n).distinct().count() < nums.length;
+
